@@ -4,6 +4,8 @@ Hier geht es um **Open Data Apps (ODAs)**. Unsere Idee ist es, den Zugang zu off
 
 Mit ODAs können Betreiber von Open Data Portalen die Leistungsfähigkeit von offenen Daten vollständig ausschöpfen 🚀. Und Software-Entwickler können endlich Software schreiben (ODAs), die kompatibel mit einer Vielzahl von Open Data Portalen sind.
 
+Als guter Startpunkt eignet sich die [ODA Dokumentation ](https://open-data-apps.github.io/open-data-app-docs/).
+
 ## Mitmachen 🤝
 
 Egal ob Sie ein Entwickler, Portalbetreiber oder Datenenthusiast sind, wir laden Sie ein, Teil unserer Community zu werden. Gemeinsam können wir die Welt der offenen Daten bereichern und weiterentwickeln 💡.
