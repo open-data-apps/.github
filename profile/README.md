@@ -1,8 +1,8 @@
 # Hallöle bei Open Data Apps 👋
 
-Hier geht es um **Open Data Apps (ODAs)**. Unsere Idee ist es, den Zugang zu offenen Daten zu revolutionieren 🌐 und es Betreibern von Open Data Portalen zu ermöglichen, Apps für offene Daten mühelos zu nutzen.
+Hier geht es um **Open Data Apps (ODAs)**. Die Idee bei ODAs ist es, den Zugang zu offenen Daten für Jedermann zu vereinfachen 🌐 und es Betreibern von Open Data Portalen zu ermöglichen, Apps für offene Daten kostengünstig und vielfältig anzubieten.
 
-Mit ODAs können Betreiber von Open Data Portalen die Leistungsfähigkeit von offenen Daten vollständig ausschöpfen 🚀. Und Software-Entwickler können endlich Software schreiben (ODAs), die kompatibel mit einer Vielzahl von Open Data Portalen sind.
+Mit ODAs können Betreiber von Open Data Portalen die Leistungsfähigkeit von offenen Daten sichtbar machen 🚀. Und Software-Entwickler können endlich Software schreiben (ODAs), die kompatibel mit einer Vielzahl von Open Data Portalen sind.
 
 Als guter Startpunkt eignet sich die [ODA Dokumentation ](https://open-data-apps.github.io/open-data-app-docs/).
 
